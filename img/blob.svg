@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   width="175"
+   height="41"
+   viewBox="0 0 175 41"
+   version="1.1">
+  <defs
+     id="defs25">
+    <style
+       id="style23">
+      .cls-1 {
+        fill: #fff;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path d="M 4.5996094 0 C 35.569609 0 56.822 40 87 40 C 116.914 40 132.63664 0 167.55664 0 L 4.5996094 0 z M -736 89.34375 L -736 90 L 912 90 L 912 89.34375 L -736 89.34375 z " class="cls-1" />
+</svg>

@@ -1,0 +1,41 @@
+
+/* Blogger Sans */
+
+@font-face {
+  font-family: 'bloger-regular';
+  src: url('../fonts/bloger-sans-regular.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'bloger-medium';
+  src: url('../fonts/bloger-sans-medium.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'bloger-bold';
+  src: url('../fonts/bloger-bold.ttf') format('truetype');
+}
+
+
+
+
+
+
+
+/* Nunito */
+
+
+@font-face {
+  font-family: 'nunito-regular';
+   src: url('../fonts/nunito-regular.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'nunito-semi-bold';
+   src: url('../fonts/nunito-semi-bold.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'nunito-bold';
+   src: url('../fonts/nunito-bold.ttf') format('truetype');
+}
